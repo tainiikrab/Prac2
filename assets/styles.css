@@ -63,7 +63,7 @@ img, .hero__image, .product-card__image, .story__image {
 
 
 
-.menu-toggle {
+/* .menu-toggle {
   display: none;
 }
 
@@ -76,7 +76,7 @@ img, .hero__image, .product-card__image, .story__image {
   -webkit-tap-highlight-color: transparent;
   align-items: center;
   justify-content: center;
-}
+} */
 
 .menu-icon {
   width: 28px;
